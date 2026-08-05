@@ -1,0 +1,18 @@
+
+Brain Tumor Segmentation Results
+================================
+
+Training Images: 3147
+Validation images: 786
+Test images: 860
+
+Image size: (256, 256)
+Batch size: 8
+Epochs: 10
+Learning rate: 0.001
+
+Best Validation Dice: 0.6599
+
+Test loss: 0.2425
+Mean test Dice: 0.6347
+Mean test IoU: 0.5260
